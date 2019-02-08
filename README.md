@@ -1,2 +1,3 @@
-# Library-Management-System_Core-Java-Master
-Core Java Sample Code
+### Library Management System
+
+Prerequisites : Core Java
